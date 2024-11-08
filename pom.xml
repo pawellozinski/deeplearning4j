@@ -313,7 +313,7 @@
         <byteunits.version>0.9.1</byteunits.version>
         <neoitertools.version>1.0.0</neoitertools.version>
         <rxjava.version>2.2.0</rxjava.version>
-        <kotlin.version>1.7.20</kotlin.version>
+        <kotlin.version>2.0.21</kotlin.version>
         <javapoet.version>1.13.0</javapoet.version>
         <kotlin-logging.version>2.1.21</kotlin-logging.version>
         <test.heap.size>8g</test.heap.size>
